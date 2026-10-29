@@ -1,0 +1,8 @@
+1. Extract this website ZIP into a new folder named NMD-WEBSITE.
+2. Extract your original fountainn.zip.
+3. Copy the entire 01-Fountain folder into NMD-WEBSITE, next to index.html.
+4. Keep all original folder and media filenames unchanged.
+5. Open index.html to check the website, then upload the whole NMD-WEBSITE folder to your existing Netlify project.
+
+These website files reference your original PNG photos and MP4 videos directly. No media is resized, compressed or re-encoded.
+Jumbo Silver and Super Jumbo Silver have no supplied media.
